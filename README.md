@@ -1,2 +1,5 @@
 # hello-world
-My first git repository
+
+Greeting earthlings...
+
+Me come in peace and sound like cave-man.
