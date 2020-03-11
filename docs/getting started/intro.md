@@ -1,4 +1,4 @@
-# Getting started
+# Intro
 
 Some intro
 
